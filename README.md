@@ -2,7 +2,6 @@
 
 A powerful fullstack application that transforms Excel data into interactive network visualizations. This tool combines a robust .NET backend with a responsive Vue.js frontend to provide seamless data processing and advanced graph visualization capabilities.
 
-![Project Banner](https://via.placeholder.com/1200x300)
 
 ## ✨ Features
 
@@ -240,15 +239,7 @@ The application provides several filtering mechanisms:
 - **Supply Chain Visualization**: Understand complex supply networks
 - **Data Relationships**: Explore connections between related data entities
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📝 License
 
