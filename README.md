@@ -17,7 +17,6 @@ A powerful fullstack application that transforms Excel data into interactive net
 
 ### Backend (.NET)
 - **ASP.NET Core Web API**
-- **GraphPower**: For graph data processing and analysis
 - **EPPlus/ExcelDataReader**: For Excel file parsing
 - **Entity Framework Core**: For data persistence (if applicable)
 - **Dependency Injection**: For maintainable service architecture
@@ -248,7 +247,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgements
 
 - [Vis.js](https://visjs.org/) for the powerful visualization library
-- [GraphPower](https://graphpower.net) for graph processing capabilities
 - [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) for Excel parsing
 - [Vue.js](https://vuejs.org/) for the frontend framework
 - [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) for the backend API
